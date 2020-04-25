@@ -7,4 +7,4 @@ A Portuguese translation of [TeachYourselfCS](https://teachyourselfcs.com/).
 ## Navegação / Navigation 
 
 *   [Original](https://teachyourselfcs.com/)
-*   [Português](TeachYourselfCS-CN.md)
+*   [Português](TeachYourselfCS-PT.md)
