@@ -51,7 +51,7 @@ No momento, o número de pessoas entrando na indústria cresce rapidamente, enqu
 
 > — Jenna Bilotta (@jenna) [4 de Março, 2017](https://twitter.com/jenna/status/838161631662092289)
 
-## Guias dos assuntos
+## Guia dos assuntos
 
 ### Programação
 
@@ -97,7 +97,7 @@ Para prática, nossa abordagem preferida para estudantes resolverem problemas é
 
 E por fim, recomendamos _[A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364)_ como um excelente guia para resolução geral de problemas; é útil tanto para ciência da computação assim como para matemática. 
 
-[![The Algorithm Design Manual](https://teachyourselfcs.com/skiena.jpg)](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/) [![Arte de Resolver Problemas](https://images-na.ssl-images-amazon.com/images/I/41fQNYlUtDL._SX348_BO1,204,203,200_.jpg)](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) 
+[![The Algorithm Design Manual](https://teachyourselfcs.com/skiena.jpg)](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/) [![Arte de Resolver Problemas](https://img.wook.pt/images/a-arte-de-resolver-problemas-g-polya/MXwxODA0MDV8MjI4OTczfDEzODM1MjMyMDAwMDA=/250x)](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) 
 
 > Eu tenho um método que eu recomendo extensivamente - chamado pense antes de escrever
 >
