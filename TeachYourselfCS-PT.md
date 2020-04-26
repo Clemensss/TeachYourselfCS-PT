@@ -41,9 +41,9 @@ Os dois dizem ser engenheiros de software, e os dois começam com salários pare
 
 > — Benedict Evans (@BenedictEvans) [2 de Fervereiro, 2016](https://twitter.com/BenedictEvans/status/694342874729545729)
 
-Engenheiros tipo 1 acham novas maneiras de aprender informática a fundo, seja por meios convencionais ou através do incessantemente apredizado ao longo de suas carreiras. Engenheiros tipo 2 geralmente ficam no superfície, estudando ferramentas e tecnologias específicas ao invés de fortalecer o seu conhecimento fundamental, apenas melhorando suas habilidades quando novas tecnologias surgem no mercado.
+Engenheiros tipo 1 acham novas maneiras de aprender informática a fundo, seja por meios convencionais ou através do incessante apredizado ao longo de suas carreiras. Engenheiros tipo 2 geralmente ficam no superfície, estudando ferramentas e tecnologias específicas ao invés de fortalecer o seu conhecimento fundamental, apenas melhorando suas habilidades quando novas tecnologias surgem no mercado.
 
-No momento, o número de pessoas entrando na indústria cresce rapidamente, enquanto o número de graduandos de ciência da computação é essencialmente estático. Esse superabastecimento de engenheiros do segundo tipo está começando a reduzir as suas oportunidades de emprego, e os deixando de fora dos trabalhos e serviços mais gratificantes da indústria
+No momento, o número de pessoas entrando na indústria cresce rapidamente, enquanto o número de graduandos de ciência da computação é essencialmente estático. Esse superabastecimento de engenheiros do segundo tipo está começando a reduzir suas oportunidades de emprego, e os deixando de fora dos trabalhos e serviços mais gratificantes da indústria.
 
 > KKKKK a mas eles estavam….[pic.twitter.com/XVNYlXAHar](https://t.co/XVNYlXAHar)
 
