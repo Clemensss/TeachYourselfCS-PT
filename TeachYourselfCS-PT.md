@@ -1,4 +1,4 @@
-# Ensine a si mesmo ciência da computação
+# Ensine ciência da computação a si mesmo 
 
 > This document is a Portuguese translation of [TeachYourselfCS](https://teachyourselfcs.com), written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#quem-é-o-tradutor).
 
