@@ -89,9 +89,9 @@ Quando você se sentir confortável com o conteúdo do livro, nossa próxima sug
 
 Concordamos com o senso comum de que, familiaridade com algoritmos e estrutura de dados são um dos aspectos mais empoderadores da educação de ciência da computação. Essa área também desenvolve a sua capacidade de resolver problemas, uma habilidade que vai ser útil para todas as áreas.
 
-Existem centenas de livros por aí, mas o nosso favorito é o _[The Algorithm Design Manual](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/)_ (Manual de Design de Algoritmos) do Steven Skiena. Ele claramente ama o que ensina, e quer muito te ajudar a entender. Uma mudança que achamos bem vinda, se comparar com os textos mais recomendados do Leiserson, Rivest & Stein, ou Sedgewick. Os dois últimos tendem a ser muito voltados a provas rigorosas para aqueles aprendendo com o objetivo de _resolver problemas_. 
+Existem centenas de livros por aí, mas o nosso favorito é o _[The Algorithm Design Manual](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/)_(Manual de Design de Algoritmos) do Steven Skiena. Ele claramente ama o que ensina, e quer muito te ajudar a entender. Uma mudança que achamos bem vinda, se comparar com os textos mais recomendados do Leiserson, Rivest & Stein, ou Sedgewick. Os dois últimos tendem a ser muito voltados a provas rigorosas para aqueles aprendendo com o objetivo de _resolver problemas_. 
 
-Aos que preferem video aulas, [o Skiena coloca as suas online](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp). Nós também adoramos o o curso do Tim Roughgarden, disponivel na Stanford Lagunita, ou no [on Coursera](https://www.coursera.org/specializations/algorithms). Se você prefere o estilo do Skiena ou do Roughgarden, é uma questão de gosto.
+Aos que preferem video aulas, [o Skiena coloca as suas online](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp). Nós também adoramos o o curso do Tim Roughgarden, disponivel na Stanford Lagunita, ou no [Coursera](https://www.coursera.org/specializations/algorithms). Se você prefere o estilo do Skiena ou do Roughgarden, é uma questão de gosto.
 
 Para prática, nossa abordagem preferida para estudantes resolverem problemas é o [Leetcode](https://leetcode.com). Tende ter problemas interessantes com soluções e discussões decentes. Eles também te ajudam a testar seu progresso utilizando perguntas comuns em entrevistas técnicas das empresas mais competitivas. Recomendamos resolver 100 problemas aleatório como parte do seu estudo.
 
@@ -105,16 +105,15 @@ E por fim, recomendamos _[A Arte de Resolver Problemas](https://www.amazon.com.b
 
 ### Matemática para ciência da computação
 
-De certas formas, ciência da computação é uma ramo da matemática aplicada. Enquanto muitos engenheiros de software tentam, e de certa forma conseguem, ignorar-la, nós te encorajamos aceitá-la. Fazendo isso com sucesso, você irá ganhar uma grande vantagem competitiva sobre os que não. 
+De certa forma, ciência da computação é uma ramo da matemática aplicada. Enquanto muitos engenheiros de software tentam, e de certa forma conseguem, ignorar-la, nós te encorajamos aceitá-la. Fazendo isso com sucesso, você irá ganhar uma grande vantagem competitiva sobre os que não. 
 
 A área mais relevante para CC é o que é chamado de “matemática discreta”, onde “discreto” é o oposto de “contínuo”, e é uma coleção de tópicos de matemática aplicada fora do cálculo. Dada essa definição super vaga, não vale a pena estudar tudo relacionado ao tópico. Um guia mais realístico é construir um entendimento útil da lógica, combinatória e probabilidade, teoria dos conjuntos, teoria dos grafos, e um pouco de teoria dos números para criptografia. Algebra linear também é um adicional que vale a pena, dada a sua importância em computação gráfica e machine learning.
 
-Nosso ponto de partida sugerido para matemática discreta são [anotações feitas por László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps) Professor László Lovász fez um ótimo trabalho fazendo o conteúdo acessível e intuitivo, serve como melhor ponto de partida do que textos mais formais. 
+Nosso ponto de partida sugerido para matemática discreta são [as anotações feitas por László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps) Professor László Lovász fez um ótimo trabalho fazendo o conteúdo acessível e intuitivo, serve como melhor ponto de partida do que textos mais formais. 
 
-Para estudos mais avançados, sugerimos _[Matemática para ciência da computação
-](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)_, as anotações (do tamanho de um livro) para o curso do MIT de mesmo nome. As aulas também estão [disponíveis online de graça](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/), e são nossas vídeo aulas recomendadas para matemática discreta.
+Para estudos mais avançados, sugerimos _[Matemática para ciência da computação](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)_, as anotações (do tamanho de um livro) para o curso do MIT de mesmo nome. As aulas também estão [disponíveis online de graça](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/), e são nossas vídeo aulas recomendadas para matemática discreta.
 
-Para algebra linear, nós sugerimos começar com os videos [A essência da algebra linear](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) uma serie de video aulas incriveis e com legendas disponiveis em portugues. Depois disso use o livro](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/)  do Gilbert Strang e a série de [video aulas](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/).
+Para algebra linear, nós sugerimos começar com os videos [a essência da algebra linear](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) uma serie de video aulas incriveis e com legendas disponíveis em português. Depois disso use o [livro](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/)  do Gilbert Strang e a série de [video aulas](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/).
 
 > Se você não acredita que a matemática é simples, é só porque você não entende o quão complicada a vida é.
 >
