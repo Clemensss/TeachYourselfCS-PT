@@ -227,7 +227,7 @@ Aprender uma linguagem em particular, é uma coisa totalmente diferente de apren
 
 Nenhuma tecnologia é tão importante que aprender a usá-la deve ser parte dos fundamentos da sua educação. Por outro lado, é muito bom que você está animado para aprender essa coisa nova. O truque está em trabalhar de trás para frente da tecnologia em particular até os fundamentos e conceitos, e aprender aquilo bem antes de ver como a sua tecnologia se encaixa no panorama geral. 
 
-### Por que ainda estão recomendo o “dragon book”?
+### Por que ainda estão recomendando “dragon book”?
 
 O “Dragon book” ainda é um dos melhores recursos para compiladores. Tem uma má fama, especialmente por colocar muita ênfase em certos tópicos que não são tão importantes hoje em dia. Mas o livro nao foi idealizado para ser lido por completo, mas dar material suficiente para um instrutor conseguir montar um curso. Similarmente, um autodidata pode escolher sua própria aventura com o livro, ou melhor ainda seguir sugestões de professores em seus resumos/guias de leitura.
 
