@@ -1,6 +1,7 @@
 # Ensine ciência da computação a si mesmo 
 
 > This document is a Portuguese translation of [TeachYourselfCS](https://teachyourselfcs.com), written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#quem-é-o-tradutor).
+
 > Essa versão está desatualizada
 
 Se você for um engenheiro autodidata ou graduado de alguma bootcamp, você deve a si mesmo aprender ciência da computação. Felizmente, você pode se dar uma educação de primeira classe sem ter que investir anos e uma pequena fortuna num diploma 💸.
