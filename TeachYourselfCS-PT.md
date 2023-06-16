@@ -111,7 +111,7 @@ De certa forma, ciência da computação é uma ramo da matemática aplicada. En
 
 A área mais relevante para CC é o que é chamado de “matemática discreta”, onde “discreto” é o oposto de “contínuo”, e é uma coleção de tópicos de matemática aplicada fora do cálculo. Dada essa definição super vaga, não vale a pena estudar tudo relacionado ao tópico. Um guia mais realístico é construir um entendimento útil da lógica, combinatória e probabilidade, teoria dos conjuntos, teoria dos grafos, e um pouco de teoria dos números para criptografia. Álgebra linear também é um adicional que vale a pena, dada a sua importância em computação gráfica e machine learning.
 
-Nosso ponto de partida sugerido para matemática discreta são [as anotações feitas por László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps) Professor László Lovász fez um ótimo trabalho fazendo o conteúdo acessível e intuitivo, serve como melhor ponto de partida do que textos mais formais. 
+Nosso ponto de partida sugerido para matemática discreta são [as anotações feitas por László Lovász](https://web.archive.org/web/20170318192105/http://www.cs.elte.hu/~lovasz/dmbook.ps) Professor László Lovász fez um ótimo trabalho fazendo o conteúdo acessível e intuitivo, serve como melhor ponto de partida do que textos mais formais. 
 
 Para estudos mais avançados, sugerimos _[Matemática para ciência da computação](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)_, as anotações (do tamanho de um livro) para o curso do MIT de mesmo nome. As aulas também estão [disponíveis online de graça](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/), e são nossas vídeo aulas recomendadas para matemática discreta.
 
