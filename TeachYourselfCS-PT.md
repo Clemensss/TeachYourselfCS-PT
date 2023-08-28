@@ -47,11 +47,11 @@ Engenheiros do tipo 1 acham novas maneiras de aprender informática a fundo, sej
 
 No momento, o número de pessoas entrando na indústria cresce rapidamente, enquanto o número de graduandos de ciência da computação é essencialmente estático. Esse superabastecimento de engenheiros do segundo tipo está começando a reduzir suas oportunidades de emprego, e os deixando de fora dos trabalhos e serviços mais gratificantes da indústria.
 
-> KKKKK a mas eles estavam….[pic.twitter.com/XVNYlXAHar](https://t.co/XVNYlXAHar)
+> [KKKKK a mas eles estavam….](src/jenna-tweet.png "@Jenna")
 
 >
 
-> — Jenna Bilotta (@jenna) [4 de Março, 2017](https://twitter.com/jenna/status/838161631662092289)
+> — Jenna Bilotta (@jenna) [4 de Março, 2017](https://twitter.com/jenna/)
 
 ## Guia dos assuntos
 
